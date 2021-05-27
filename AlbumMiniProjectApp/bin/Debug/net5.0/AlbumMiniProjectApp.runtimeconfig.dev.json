@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Marioty25\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Marioty25\\.nuget\\packages"
+    ]
+  }
+}

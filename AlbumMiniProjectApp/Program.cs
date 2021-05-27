@@ -11,9 +11,13 @@ namespace AlbumMiniProjectApp
 {
     public class Program
     {
-        public static void Main(string[] args)
+        public static async Task Main(string[] args)
         {
-            CreateHostBuilder(args).Build().Run();
+            var builder = CreateHostBuilder(args).Build();
+
+            
+
+            await builder.RunAsync();
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>

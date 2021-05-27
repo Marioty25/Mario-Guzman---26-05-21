@@ -1,0 +1,9 @@
+C:\repos\AlbumMiniProject\AlbumMiniProjectShared\bin\Debug\netstandard2.1\AlbumMiniProjectShared.deps.json
+C:\repos\AlbumMiniProject\AlbumMiniProjectShared\bin\Debug\netstandard2.1\AlbumMiniProjectShared.dll
+C:\repos\AlbumMiniProject\AlbumMiniProjectShared\bin\Debug\netstandard2.1\AlbumMiniProjectShared.pdb
+C:\repos\AlbumMiniProject\AlbumMiniProjectShared\obj\Debug\netstandard2.1\AlbumMiniProjectShared.csprojAssemblyReference.cache
+C:\repos\AlbumMiniProject\AlbumMiniProjectShared\obj\Debug\netstandard2.1\AlbumMiniProjectShared.AssemblyInfoInputs.cache
+C:\repos\AlbumMiniProject\AlbumMiniProjectShared\obj\Debug\netstandard2.1\AlbumMiniProjectShared.AssemblyInfo.cs
+C:\repos\AlbumMiniProject\AlbumMiniProjectShared\obj\Debug\netstandard2.1\AlbumMiniProjectShared.csproj.CoreCompileInputs.cache
+C:\repos\AlbumMiniProject\AlbumMiniProjectShared\obj\Debug\netstandard2.1\AlbumMiniProjectShared.dll
+C:\repos\AlbumMiniProject\AlbumMiniProjectShared\obj\Debug\netstandard2.1\AlbumMiniProjectShared.pdb
